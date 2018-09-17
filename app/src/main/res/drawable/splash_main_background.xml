@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/splash_gradient_background"/>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/img_splash_screen_text"/>
+    </item>
+
+</layer-list>

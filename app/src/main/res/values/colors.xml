@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40babd</color>
+    <color name="colorPrimaryDark">#27a8a9</color>
+    <color name="colorAccent">#77D6D6</color>
+
+    <color name="result_view">#b0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="result_points">#aeea00</color> <!-- Androname standard ICS color -->
+    <color name="encode_view">#ffffffff</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_laser">#d50000</color> <!-- Androname standard ICS color -->
+    <color name="possible_result_points">#c0fbc02d</color> <!-- Androname standard ICS color -->
+    <color name="invalid_ticket">#E04F5F</color> <!-- Androname standard ICS color -->
+</resources>

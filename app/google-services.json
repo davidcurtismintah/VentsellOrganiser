@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723208695084",
+    "project_id": "ventsell-organiser"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723208695084:android:4c31a61aa3b0f8ad",
+        "android_client_info": {
+          "package_name": "com.ventsell.ventsellorganiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723208695084-ln6ji2qvbvfiqfe99sf0k8p6ad0odr2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ventsell.ventsellorganiser",
+            "certificate_hash": "18c2e7f02edd8282e3ce1a4b234a88d599a6d450"
+          }
+        },
+        {
+          "client_id": "723208695084-ldu502u688rmaqc168hv4ruojdmeiqv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKnFzUhiVl4t3zJmqxucjD7jmUwhSgiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

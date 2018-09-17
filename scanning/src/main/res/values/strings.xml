@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ticket Scan</string>
+    <string name="ticket_scan_result_text">ticket id</string>
+    <string name="initialize_scan_text">Scanning…</string>
+</resources>

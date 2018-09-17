@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_home"
+            android:checked="true"
+            android:icon="@drawable/ic_action_home"
+            android:title="@string/drawer_item_home_page" />
+        <item
+            android:id="@+id/navigation_item_history"
+            android:checkable="false"
+            android:icon="@drawable/ic_action_history"
+            android:title="@string/drawer_item_history" />
+    </group>
+
+    <item android:title="@string/drawer_item_preferences">
+        <menu>
+            <!--<item
+                android:id="@+id/navigation_item_scan_settings"
+                android:checkable="false"
+                android:icon="@drawable/ic_action_settings"
+                android:title="@string/drawer_item_scan_settings" />-->
+            <item
+                android:id="@+id/navigation_item_account_settings"
+                android:checkable="false"
+                android:icon="@drawable/ic_action_account"
+                android:title="@string/drawer_item_account_settings" />
+        </menu>
+    </item>
+
+    <item android:title="@string/drawer_item_account">
+        <menu>
+            <item
+                android:id="@+id/navigation_item_logout"
+                android:checkable="false"
+                android:title="@string/drawer_item_logout" />
+        </menu>
+    </item>
+</menu>
